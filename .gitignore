@@ -1,4 +1,2 @@
 # Ignore .csv data files
-*.csv
-*.xlse
 data/
